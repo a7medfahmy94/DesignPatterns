@@ -15,7 +15,9 @@ public class Main {
 		// TODO Auto-generated method stub
 //		Decorator.Run.run();
 //		BasicFactory.Run.run();
-		ReflectionFactory.Run.run();
+//		ReflectionFactory.Run.run();
+		FoodFactory.Run.run();
+		
 	}
 
 }

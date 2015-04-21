@@ -11,6 +11,6 @@ public class Run {
 		System.out.println(connection.description());
 		connection = factory.createConnection("Oracle");
 		System.out.println(connection.description());
-		System.out.println("Basic Factory END\n");
+		System.out.println("Basic Factory END\n");		
 	}
 }
